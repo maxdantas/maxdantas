@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maxwel Dantas
 - 👀 I’m interested in App Developing and lern about anything
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Python and PHP
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me maxweldantas@gmail.com
 
